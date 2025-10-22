@@ -8,8 +8,7 @@ Sistema completo de gestión de reclamos con roles diferenciados (CLIENTE y AGEN
 
 Este sistema está alojado en el siguiente repositorio (estructura no estándar pero funcional):
 
-🔗 [https://github.com/migueltovarb/ISWDISENO10196-5/tree/main/ENTREGA_FINAL/ClaimsSystem](https://github.com/migueltovarb/ISWDISENO10196-5/tree/main/ENTREGA_FINAL/ClaimsSystem)
-
+🔗
 ```
 ClaimsSystem/
 ├── Claims/      ← Backend (Spring Boot + MongoDB)
