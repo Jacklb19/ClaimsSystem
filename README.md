@@ -7,6 +7,7 @@ Sistema completo de gestión de reclamos con roles diferenciados (CLIENTE y AGEN
 ## 📁 Repositorio
 
 Este sistema está alojado en el siguiente repositorio (estructura no estándar pero funcional):
+https://github.com/Jacklb19/ClaimsSystem.git
 
 🔗
 ```
@@ -59,8 +60,8 @@ ClaimsSystem/
 ### 🔁 Clonar el proyecto
 
 ```bash
-git clone https://github.com/migueltovarb/ISWDISENO10196-5
-cd ISWDISENO10196-5/ENTREGA_FINAL/ClaimsSystem
+git clone https://github.com/Jacklb19/ClaimsSystem.git
+cd ClaimsSystem
 ```
 
 ### 🖥️ Backend
